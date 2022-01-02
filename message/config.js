@@ -1,12 +1,12 @@
 'use strict';
 const fs = require("fs");
 
-const Creator = "Guntur P";
-const watermark = "WM dari Guntur";
-const namaOwner = "GunturP";
-const NomorOwner = ['6281335910842'];
-const namaBot = "GUNTUR assistant";
-const author = "Guntur P";
+const Creator = "Hyper";
+const watermark = "WM dari HyperGamteng";
+const namaOwner = "HyperGamteng☭";
+const NomorOwner = ['6285781628368'];
+const namaBot = "HyperBot";
+const author = "HyperGamteng☭";
 const packname = "Stick me";
 const thumbnail = fs.readFileSync("./media/image/thumbnail.png");
 const fakeImage = fs.readFileSync("./media/image/fake.png");
@@ -16,7 +16,7 @@ const autocomposing = false;
 const autorecording = false;
 const p_multiprefix = true;
 const p_nonprefix = false;
-const p_prefix = '/';
+const p_prefix = '.';
 
 const browserDescription = {
   set_name: "Guntur P",
