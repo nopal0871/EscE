@@ -19,7 +19,7 @@ const p_nonprefix = false;
 const p_prefix = '.';
 
 const browserDescription = {
-  set_name: "Guntur P",
+  set_name: "HyperGamteng𖣔ิ",
   set_browser: "Chrome"
 }
 
